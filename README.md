@@ -37,7 +37,8 @@ We are light on tutorials, so feel free to create yours and list it here.
 
 Here you can find techinical and user documentation for the whole rollups framework or its pieces.
 
-- [Main Docs](docs.cartesi.io) - Official docs for Cartesi
+- [Main Docs](https://docs.cartesi.io) - Official docs for Cartesi
+  - [Whitepaper](https://cartesi.io/cartesi_whitepaper.pdf)
 
 ### Workshops
 
@@ -71,7 +72,7 @@ Checkout extra materials on how RISCV on blockchain is made possible.
 
 ## Grants
 
--[Cartesi Labs](https://cartesi.io/labs/) A program run by the Cartesi Foundation; to fund research, to develop a decentralized system with our technology stack.
+- [Cartesi Labs](https://cartesi.io/labs/) A program run by the Cartesi Foundation; to fund research, to develop a decentralized system with our technology stack.
 
 - [Governance](https://governance.cartesi.io/)
 
