@@ -31,7 +31,14 @@ We are light on tutorials, so feel free to create yours and list it here.
 
 - **Videos**
 
+- [Youtube](https://www.youtube.com/@Cartesiproject)
+
+  - [Cartesi - Polygon comparision](https://www.youtube.com/watch?v=--Ss3jZd1AE&ab_channel=BlockchainCrypto) This video gives a visual representation of how Cartesi acts as L2 scaling solution for Ethereum Dapps and also compares it with Polygon to provide a perspective on the pros of using Cartesi.
+  - [Cartesi - Iotex](https://www.youtube.com/watch?v=B6eF6AY9inY&ab_channel=Cartesi) Discussion on Iot use cases
+
 - **Articles**
+- [Medium](https://medium.com/cartesi)
+  - [Fraud proofs and virtual machines](https://medium.com/@cpbuckland88/fraud-proofs-and-virtual-machines-2826a3412099)
 
 ### Documentation
 
