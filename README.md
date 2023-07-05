@@ -21,7 +21,7 @@ Feel free to mirror, clone, copy, and run away with the contents of this repo. L
 
 ## Getting Started
 
-Follow this link for a quick-and-dirty outlook on _getting started_ with Cartesi Rollups
+Follow this link for a quick-and-dirty outlook on [_getting started_](https://docs.cartesi.io/cartesi-rollups/build-dapps/run-dapp/) with Cartesi Rollups
 
 ## Learning
 
@@ -31,14 +31,14 @@ We are light on tutorials, so feel free to create yours and list it here.
 
 - **Videos**
 
-- [Youtube](https://www.youtube.com/@Cartesiproject)
+  - [Youtube](https://www.youtube.com/@Cartesiproject)
 
-  - [Cartesi - Polygon comparision](https://www.youtube.com/watch?v=--Ss3jZd1AE&ab_channel=BlockchainCrypto) This video gives a visual representation of how Cartesi acts as L2 scaling solution for Ethereum Dapps and also compares it with Polygon to provide a perspective on the pros of using Cartesi.
-  - [Cartesi - Iotex](https://www.youtube.com/watch?v=B6eF6AY9inY&ab_channel=Cartesi) Discussion on Iot use cases
+    - [Cartesi - Polygon comparision](https://www.youtube.com/watch?v=--Ss3jZd1AE&ab_channel=BlockchainCrypto) This video gives a visual representation of how Cartesi acts as L2 scaling solution for Ethereum Dapps and also compares it with Polygon to provide a perspective on the pros of using Cartesi.
+    - [Cartesi - Iotex](https://www.youtube.com/watch?v=B6eF6AY9inY&ab_channel=Cartesi) Discussion on Iot use cases
 
 - **Articles**
-- [Medium](https://medium.com/cartesi)
-  - [Fraud proofs and virtual machines](https://medium.com/@cpbuckland88/fraud-proofs-and-virtual-machines-2826a3412099)
+  - [Medium](https://medium.com/cartesi)
+    - [Fraud proofs and virtual machines](https://medium.com/@cpbuckland88/fraud-proofs-and-virtual-machines-2826a3412099)
 
 ### Documentation
 
@@ -64,11 +64,11 @@ Checkout extra materials on how RISCV on blockchain is made possible.
 ## Projects
 
 - [CartesianBattleships](https://github.com/WeAreProductive/CartesianBattleships) - Description at: https://rolluplab.io/cartesian-battleship/
-- [Ultrachess](https://github.com/Ultrachess/app) - Ultrachess.org is the first Layer-2 decentralized application (DApp) that enables users to engage in fully on-chain chess matches, wagering real value on the outcomes. [More at rolluplab](https://rolluplab.io/ultrachess/).
+- [Ultrachess](https://github.com/Ultrachess/app) - Ultrachess.org is the first Layer-2 decentralized application (DApp) that enables users to engage in fully on-chain chess matches, wagering real value on the outcomes. [More at rolluplab](https://rolluplab.io/).
 
 ## Videos
 
-- [Why do we need a blockchain VM that runs Linux?](https://www.youtube.com/watch?v=TnrxayQCLY4) _Tech with Tim_ talks with Diegon Nehab about the meaning of having Linux backing your dApp. [Full version.](https://www.youtube.com/watch?v=V-kuMuGsgPo)
+- [Why do we need a blockchain VM that runs Linux?](https://www.youtube.com/watch?v=TnrxayQCLY4) _Tech with Tim_ talks with Diego Nehab about the meaning of having Linux backing your dApp. [Full version.](https://www.youtube.com/watch?v=V-kuMuGsgPo)
 - **Game Developer Community Call**
   - [Cartesi Game Developer Community Call #1 - Jan 2023 ](https://www.youtube.com/watch?v=TVHVw18K-8U)
   - [Cartesi Game Developer Community Call #3 - May 2023](https://www.youtube.com/watch?v=q7NEYtVJwn4)
