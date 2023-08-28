@@ -50,4 +50,10 @@ yarn start input send --payload "Hey gbarros/awesome-cartesi really works"
 yarn start notice list
 ```
 
-🥳🎉 you just built and run your first example code on Linux VM Rollups!
+## 🥳🎉 you just built and run your first example code on Linux VM Rollups!
+
+
+When you are done, you can stop the node with `Ctrl+C` and then on Terminal_1: 
+```bash 
+docker compose -f ../docker-compose.yml -f ./docker-compose.override.yml down
+``````

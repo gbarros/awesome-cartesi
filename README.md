@@ -7,7 +7,8 @@ Feel free to mirror, clone, copy, and run away with the contents of this repo. L
 ## Table of Contents
 
 - [Awesome Cartesi](#awesome-cartesi)
-  - [Getting Started](#getting-started)
+  - [Getting Started](./src/getting-started.md)
+  - [Cheat Sheet](./src/cheat-sheet.md)
   - [Learning](#Learning)
     - [Tutorials](#Tutorials)
     - [Documentation](#Documentation)
@@ -21,7 +22,10 @@ Feel free to mirror, clone, copy, and run away with the contents of this repo. L
 
 ## Getting Started
 
-Follow this link for a quick-and-dirty outlook on [_getting started_](https://docs.cartesi.io/cartesi-rollups/build-dapps/run-dapp/) with Cartesi Rollups
+Follow this link for a quick-and-dirty outlook on [_getting started_](./src/getting-started.md) with Cartesi Rollups
+
+## Cheat Sheet
+You can find a ever growing list of commands and tips for Cartesi Rollups [here](./src/cheat-sheet.md)
 
 ## Learning
 
@@ -81,6 +85,5 @@ Checkout extra materials on how RISCV on blockchain is made possible.
 
 - [Cartesi Labs](https://cartesi.io/labs/) A program run by the Cartesi Foundation; to fund research, to develop a decentralized system with our technology stack.
 
-- [Governance](https://governance.cartesi.io/)
+- [Governance](https://governance.cartesi.io/) Here you can find a development space through incentivization, the Community Grants Proposals. There are RFPs (**R**equest **F**or _grant_ **P**roposals), past and current proposals, and a forum to discuss and propose new ideas.
 
-**Successful Grant applications**
