@@ -51,6 +51,7 @@ Here you can find techinical and user documentation for the whole rollups framew
 - [Main Docs](https://docs.cartesi.io) - Official docs for Cartesi
   - [Whitepaper](https://cartesi.io/cartesi_whitepaper.pdf)
 - [Community Docs Contributions](https://github.com/nicocartesi/docs-contrib) - Cartesi community documentation repository that includes contributions beyond the official docs portal
+- [Developer Guide ](https://drive.google.com/drive/folders/1uxPZTlHQTg8N_poxAjCWa9FxnUbj1trX) - Complete Developer Guide for building & deploying Cartesi dApps with macOS, Windows and Linux.
 
 ### Workshops
 
